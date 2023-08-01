@@ -1,1 +1,1 @@
-My first readme
+ready to study !
