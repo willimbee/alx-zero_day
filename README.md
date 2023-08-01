@@ -1,1 +1,3 @@
-ready to study !
+
+updated ! happy to deal with git  
+
